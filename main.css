@@ -1,0 +1,34 @@
+<style>
+        li{
+           text-transform: capitalize; 
+           color:rgb(66, 235, 227)
+        }
+
+        h2{
+            text-transform: uppercase;
+        }
+
+        p{
+            text-align: justify
+        }
+        .bg-silver{
+            background: rgb(219, 215, 212);
+        }
+        h1{
+            text-align: center ; color: rgb(87, 111, 219) ; background-color: rgb(236, 248, 250);
+        }
+
+        img{
+           "width: 600px; height: 400px;
+        }
+
+        .asdqwe {
+            background-color: rgb(243, 219, 154);
+        }
+        .new{
+            background-color: rgb(226, 213, 238);
+        }
+        .new1{
+            background-color: rgb(205, 215, 235);
+        }
+    </style>
